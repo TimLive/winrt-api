@@ -10,7 +10,7 @@ public double AngleY { get;  set; }
 # Windows.UI.Xaml.Media.SkewTransform.AngleY
 
 ## -description
-Gets or sets the y-axis skew angle, which is measured in degrees counterclockwise from the x-axis.
+Gets or sets the y-axis skew angle, which is measured in degrees clockwise from the x-axis.
 
 ## -xaml-syntax
 ```xaml
@@ -19,7 +19,7 @@ Gets or sets the y-axis skew angle, which is measured in degrees counterclockwis
 
 
 ## -property-value
-The skew angle, which is measured in degrees counterclockwise from the x-axis. The default is 0.
+The skew angle, which is measured in degrees clockwise from the x-axis. The default is 0.
 
 ## -remarks
 
